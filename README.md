@@ -1,3 +1,3 @@
 # pong
 
-Pong game
+A simple pong game made in pygames.
